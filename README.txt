@@ -1,3 +1,5 @@
+The East CHA Makers website is built on the awesome HTML5 template created by @n33co.  Please give him some love
+
 Helios by HTML5 UP
 html5up.net | @n33co
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)

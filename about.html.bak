@@ -89,8 +89,7 @@
                 <p> Without our directors, board members and volunteers none of
                   this would happen!</p>
                 <div class="row 50%">
-                  <div class="4u"> <a href="#" class="image fit"><img src="images/pic10.jpg"
-
+                  <div class="4u"> <a href="#" class="image fit"><img src="images/pic10.jpg"
                         alt=""></a> </div>
                   <div class="8u">
                     <h4>Ron Fabela</h4>
@@ -98,8 +97,7 @@
                   </div>
                 </div>
                 <div class="row 50%">
-                  <div class="4u"> <a href="#" class="image fit"><img src="images/pic11.jpg"
-
+                  <div class="4u"> <a href="#" class="image fit"><img src="images/pic11.jpg"
                         alt=""></a> </div>
                   <div class="8u">
                     <h4>Kristyn Fabela</h4>
@@ -107,8 +105,7 @@
                   </div>
                 </div>
                 <div class="row 50%">
-                  <div class="4u"> <a href="#" class="image fit"><img src="images/pic12.jpg"
-
+                  <div class="4u"> <a href="#" class="image fit"><img src="images/pic12.jpg"
                         alt=""></a> </div>
                   <div class="8u">
                     <h4>Sonja Fabela</h4>
@@ -116,8 +113,7 @@
                   </div>
                 </div>
                 <div class="row 50%">
-                  <div class="4u"> <a href="#" class="image fit"><img src="images/pic13.jpg"
-
+                  <div class="4u"> <a href="#" class="image fit"><img src="images/pic13.jpg"
                         alt=""></a> </div>
                   <div class="8u">
                     <h4>Sophia Fabela</h4>
@@ -125,8 +121,7 @@
                   </div>
                 </div>
                 <div class="row 50%">
-                  <div class="4u"> <a href="#" class="image fit"><img src="images/pic14.jpg"
-
+                  <div class="4u"> <a href="#" class="image fit"><img src="images/pic14.jpg"
                         alt=""></a> </div>
                   <div class="8u">
                     <h4>Liam Fabela</h4>
@@ -144,38 +139,36 @@
               </center>
             </header>
             <div class="row">
-              <article class="4u 12u(mobile) special"> <a href="#" class="image featured"><img
-
+              <article class="4u 12u(mobile) special"> <a href="#" class="image featured"><img
                     src="images/pic07.jpg" alt=""></a>
                 <header>
-                  <h3><a href="#">Gravida aliquam penatibus</a></h3>
+                  <h3><a href="http://colab.co/">CO.LAB</a></h3>
                 </header>
-                <p> Amet nullam fringilla nibh nulla convallis tique ante proin
-                  sociis accumsan lobortis. Auctor etiam porttitor phasellus
-                  tempus cubilia ultrices tempor sagittis. Nisl fermentum
-                  consequat integer interdum. </p>
+                <p> The Company Lab (CO.LAB) is a nonprofit startup accelerator
+                  that supports entrepreneurial growth in southeast Tennessee.
+                  They work with companies ranging from street-corner mom and
+                  pop shops to tech startups scaling into major markets. </p>
               </article>
-              <article class="4u 12u(mobile) special"> <a href="#" class="image featured"><img
-
+              <article class="4u 12u(mobile) special"> <a href="#" class="image featured"><img
                     src="images/pic08.jpg" alt=""></a>
                 <header>
-                  <h3><a href="#">Sed quis rhoncus placerat</a></h3>
+                  <h3><a href="http://www.glasshousecollective.org/">Glass House
+                      Collective</a></h3>
                 </header>
-                <p> Amet nullam fringilla nibh nulla convallis tique ante proin
-                  sociis accumsan lobortis. Auctor etiam porttitor phasellus
-                  tempus cubilia ultrices tempor sagittis. Nisl fermentum
-                  consequat integer interdum. </p>
+                <p> Glass House Collective was founded to help our community
+                  bring life back to Glass Street, and Glass Street back to
+                  life. Entrepreneurial and beta-minded, we gather diverse teams
+                  of talent to help revitalize historic Glass Street in
+                  Chattanooga. </p>
               </article>
-              <article class="4u 12u(mobile) special"> <a href="#" class="image featured"><img
-
+              <article class="4u 12u(mobile) special"> <a href="#" class="image featured"><img
                     src="images/pic09.jpg" alt=""></a>
                 <header>
-                  <h3><a href="#">Magna laoreet et aliquam</a></h3>
+                  <h3><a href="#">Why Not You?</a></h3>
                 </header>
-                <p> Amet nullam fringilla nibh nulla convallis tique ante proin
-                  sociis accumsan lobortis. Auctor etiam porttitor phasellus
-                  tempus cubilia ultrices tempor sagittis. Nisl fermentum
-                  consequat integer interdum. </p>
+                <p> Have a skill? Want to learn? Have a spare 3D printer that
+                  needs a new home? Support your community and come on down to
+                  the space</p>
               </article>
             </div>
           </article>
@@ -193,20 +186,16 @@
                 </header>
                 <p>Contact us at anytime via social media or email</p>
                 <ul class="icons">
-                  <li><a href="https://twitter.com/East_CHA_Makers" class="icon fa-twitter"><span
-
+                  <li><a href="https://twitter.com/East_CHA_Makers" class="icon fa-twitter"><span
                         class="label">Twitter</span></a><br>
                   </li>
-                  <li><a href="https://www.facebook.com/East.Cha.Makers/" class="icon fa-facebook"><span
-
+                  <li><a href="https://www.facebook.com/East.Cha.Makers/" class="icon fa-facebook"><span
                         class="label">Facebook</span></a><br>
                   </li>
-                  <li><a href="https://github.com/east-cha-makers/" class="icon fa-github"><span
-
+                  <li><a href="https://github.com/east-cha-makers/" class="icon fa-github"><span
                         class="label">Github</span></a><br>
                   </li>
-                  <li><a href="mailto:info@eastchamaker.space" class="icon fa-envelope"><span
-
+                  <li><a href="mailto:info@eastchamaker.space" class="icon fa-envelope"><span
                         class="label">Email</span></a><br>
                   </li>
                 </ul>
@@ -232,6 +221,5 @@
     <script src="assets/js/util.js"></script>
     <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
     <script src="assets/js/main.js"></script>
-    
   </body>
 </html>

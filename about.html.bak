@@ -26,7 +26,7 @@
             <li><span style="font-weight: bold;"><a href="index.html">Home</a></span></li>
             <li><span style="font-weight: bold;"><a href="projects.html">Projects
                   &amp; Activities</a></span></li>
-            <li><span style="font-weight: bold;"><a href="left-sidebar.html">Schedule</a></span></li>
+            <!--<li><span style="font-weight: bold;"><a href="left-sidebar.html">Schedule</a></span></li>
             <li><span style="font-weight: bold;"><a href="about.html">About Us</a></span></li>
           </ul>
         </nav>
@@ -62,10 +62,12 @@
                   <header>
                     <h3>Key Objectives</h3>
                   </header>
-                  <p> <b>Be Accessible:</b> Open hours, for free, for the community<br>
-                    <b>Have Fun:</b> Creative, fun environment that encourages learning<br>
-                    <b>Engage Others:</b> Attract 'downtown' programs and events, hosted in
-                    East Chattanooga </p>
+                  <p> <b>Be Accessible:</b> Open hours, for free, for the
+                    community<br>
+                    <b>Have Fun:</b> Creative, fun environment that encourages
+                    learning<br>
+                    <b>Engage Others:</b> Attract 'downtown' programs and
+                    events, hosted in East Chattanooga </p>
                 </section>
               </article>
             </div>
@@ -141,6 +143,8 @@
             <header>
               <center>
                 <h2>Featured Partners</h2>
+                <p><br>
+                </p>
               </center>
             </header>
             <div class="row">
@@ -233,6 +237,5 @@
     <script src="assets/js/util.js"></script>
     <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
     <script src="assets/js/main.js"></script>
-    
   </body>
 </html>
